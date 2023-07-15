@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @proc-ash
-- 👀 I’m interested in Backend development, Database designs, Data science & Machine learning.
-- 🌱 I’m currently working as a Data scientist
-- 💞️ I’m looking to collaborate on Backend development & data science projects
+- 👋 Hi, I’m Prakash
+- 👀 I’m interested in Web development , Devops & Machine learning.
+- 🌱 I’m currently working on my personal projects
+- 💞️ I’m looking to collaborate on Backend development & Machine learning projects
 - 📫 Feel free to reach me at prakash.nopany@gmail.com
 
 <!---
